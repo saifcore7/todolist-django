@@ -1,0 +1,16 @@
+# python virtual environment
+venv/
+# test databases
+*.sqlite3
+# images and videos
+media/*
+# python __pycache__ directories
+api/__pycache__/
+auth/__pycache__/
+config/__pycache__/
+test*
+# test config file
+config/config.py
+# vscode
+todolist.code-workspace
+.vscode/
